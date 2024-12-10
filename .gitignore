@@ -1,0 +1,6 @@
+venv
+.env
+notebook
+Ecommercebot.egg-info
+new_env
+myenv
